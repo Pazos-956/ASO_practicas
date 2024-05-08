@@ -1,0 +1,259 @@
+{
+  "main": {
+    "id": "6c531d218e4ab8bc",
+    "type": "split",
+    "children": [
+      {
+        "id": "961c43fbfb0fe0c0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e6474e28ad302868",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Máquina 3.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f52b2cdf92307a69",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Practica 4 -m3.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b0798f9bb72a2d73",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Máquina 2.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "637053e598db4c09",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Practica 6 -m2.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9fb0ac96ada96c22",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Practica 4 -m2.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "511f4b7625ea655f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ERRORES.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8bce4f6e480abfee",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Practica 6 -m2.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "067d7c943fab1d84",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Practica 6 -m3.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "50eca3dd7106dab4",
+    "type": "split",
+    "children": [
+      {
+        "id": "0e90bb77188a6169",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6bd37bf81042f4d0",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "674773838f363c33",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "maquina",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "46d49edfe1d105a7",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "right": {
+    "id": "89a36e5db6fcfb00",
+    "type": "split",
+    "children": [
+      {
+        "id": "c8df2201af3783de",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c2cd6512ff6b42c9",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Practica 4 -m3.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "2ac7d8ef0d39dfd8",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Practica 4 -m3.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "5f47356a8e9427de",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "2f69866f03e690f4",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Practica 4 -m3.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir selector rápido": false,
+      "graph:Abrir vista gráfica": false,
+      "canvas:Crear nuevo lienzo": false,
+      "daily-notes:Abrir la nota de hoy": false,
+      "templates:Insertar plantilla": false,
+      "command-palette:Abrir paleta de comandos": false
+    }
+  },
+  "active": "f52b2cdf92307a69",
+  "lastOpenFiles": [
+    "Máquina 3.md",
+    "Practica 6 -m2.md",
+    "Practica 4 -m2.md",
+    "Máquina 2.md",
+    "Practica 5 -m3.md",
+    "ERRORES.md",
+    "Practica 4 -m3.md",
+    "practica 6 -m1.md",
+    "Practica 6 -m3.md",
+    "Practica 5 -m2.md",
+    "Máquina 1.md",
+    "practica 4 -m1.md",
+    "practica 5 -m1.md",
+    "Practica 2 -m2.md",
+    "P11 cxt.md",
+    "2024-05-01.md",
+    "Nota nueva.md",
+    "Nota nueva22.md",
+    "Sin título 1.canvas",
+    "Sin título.canvas",
+    "Nuevo documento de texto.txt"
+  ]
+}
